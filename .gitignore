@@ -112,3 +112,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/modules.xml
+.idea/misc.xml
+.idea/encodings.xml
+.idea/CastroQR.iml___jb_tmp___
+.idea/CastroQR.iml
+.idea/vcs.xml
+.idea/workspace.xml
+src/test.xlsx
